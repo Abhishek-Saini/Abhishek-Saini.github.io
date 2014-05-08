@@ -1,0 +1,85 @@
+body{
+background : url(bg6.jpg) fixed 50% 100%;
+font-size :20px;
+text-shadow:rgb(110,110,110) 3px 3px 3px;
+}
+
+h1{
+text-align : center;
+color : #603311;
+}
+
+h2.edu{
+color : #603311;
+}
+
+h2.about{
+color : #8B4513;
+}
+
+table{
+border : 2px solid blue;
+border-width :100%;
+}
+
+td{
+border : 1px solid #603311;
+}
+
+th{
+border : 2px solid green;
+}
+
+span{
+border: dashed green;
+}
+
+ul {
+border: 3px dashed #233ED9;
+color :black;
+}
+
+#photo{
+margin-left:200px;
+-webkit-transition:-webkit-transform 1s;
+}
+
+#photo:hover{
+-webkit-transform:rotate(360deg);
+}
+
+
+photo1 {
+width: 441px;
+height: 248px;
+}
+photo1:hover
+{ -moz-box-shadow: 0 0 10px #ccc;
+-webkit-box-shadow: 0 0 10px #ccc;
+box-shadow: 0 0 10px #ccc;
+}
+
+#lefti{
+margin-left:200px;
+}
+
+#righti{
+margin-right:200px;
+}
+
+
+
+#nav1{
+text-align:center;
+display:inline-block;
+width:273px;
+height:30px;
+float:left;
+line-height:45px;
+font-size:20px;
+font-weight:700;
+}
+#con{
+color:blue;
+}
+
